@@ -1,0 +1,21 @@
+[submodule "adventofcode2021"]
+	path = adventofcode2021
+	url = https://github.com/mn113/adventofcode2021
+[submodule "adventofcode2020"]
+	path = adventofcode2020
+	url = https://github.com/mn113/adventofcode2020
+[submodule "adventofcode2019"]
+	path = adventofcode2019
+	url = https://github.com/mn113/adventofcode2019
+[submodule "adventofcode2018"]
+	path = adventofcode2018
+	url = https://github.com/mn113/adventofcode2018
+[submodule "adventofcode2017"]
+	path = adventofcode2017
+	url = https://github.com/mn113/adventofcode2017
+[submodule "adventofcode2016"]
+	path = adventofcode2016
+	url = https://github.com/mn113/adventofcode2016
+[submodule "adventofcode2022"]
+	path = adventofcode2022
+	url = https://github.com/mn113/adventofcode2022
