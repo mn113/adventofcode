@@ -1,3 +1,6 @@
+[submodule "adventofcode2022"]
+	path = adventofcode2022
+	url = https://github.com/mn113/adventofcode2022
 [submodule "adventofcode2021"]
 	path = adventofcode2021
 	url = https://github.com/mn113/adventofcode2021
@@ -16,6 +19,3 @@
 [submodule "adventofcode2016"]
 	path = adventofcode2016
 	url = https://github.com/mn113/adventofcode2016
-[submodule "adventofcode2022"]
-	path = adventofcode2022
-	url = https://github.com/mn113/adventofcode2022
