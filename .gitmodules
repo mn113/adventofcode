@@ -22,3 +22,6 @@
 [submodule "adventofcode2023"]
 	path = adventofcode2023
 	url = https://github.com/mn113/adventofcode2023.git
+[submodule "adventofcode2015"]
+	path = adventofcode2015
+	url = https://github.com/mn113/adventofcode2015.git
