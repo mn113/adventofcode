@@ -8,7 +8,7 @@ Advent of Code is a problem-solving challenge across 25 days each December. I ha
 
 | year | completion (stars/50) | description |
 | ---- | :-------------------: | ----------- |
-| [2015](https://github.com/mn113/adventofcode2015) | 4 | WIP |
+| [2015](https://github.com/mn113/adventofcode2015) | 12 | WIP (retroactive) |
 | [2016](https://github.com/mn113/adventofcode2016) | 47 | First participation. Solved using only Python. |
 | [2017](https://github.com/mn113/adventofcode2017) | 50 | Solved in Ruby, Python, Elixir **(new)**. |
 | [2018](https://github.com/mn113/adventofcode2018) | 20 | Attempted in PHP. Lack of time to dedicate to solving. |
@@ -16,6 +16,7 @@ Advent of Code is a problem-solving challenge across 25 days each December. I ha
 | [2020](https://github.com/mn113/adventofcode2020) | 50 | Solved in Ruby, Python, Elixir, JS, PHP, Go **(new)**. |
 | [2021](https://github.com/mn113/adventofcode2021) | 47 | Solved in Elixir, Ruby, Python, JS, PHP. |
 | [2022](https://github.com/mn113/adventofcode2022) | 50 | Solved in Elixir, Crystal **(new)**, JS, Python, PHP. |
+| [2023](https://github.com/mn113/adventofcode2023) | 39 | Solved in Elixir, Ruby, Python. |
 
 ## Thoughts on solving languages
 
