@@ -1,4 +1,4 @@
-# Advent of Code 2015-2023
+# Advent of Code 2015-2024
 
 Parent repo for all my [Advent of Code](https://adventofcode.com/) solutions repos.
 
@@ -17,6 +17,7 @@ Advent of Code is a problem-solving challenge across 25 days each December. I ha
 | [2021](https://github.com/mn113/adventofcode2021) | 47 | Solved in Elixir, Ruby, Python, JS, PHP. |
 | [2022](https://github.com/mn113/adventofcode2022) | 50 | Solved in Elixir, Crystal **(new)**, JS, Python, PHP. |
 | [2023](https://github.com/mn113/adventofcode2023) | 39 | Solved in Elixir, Ruby, Python. |
+| [2024](https://github.com/mn113/adventofcode2024) | 50 | Solved in Elixir, Python, JS, Ruby, Rust **(new)**, PHP. |
 
 ## Thoughts on solving languages
 
